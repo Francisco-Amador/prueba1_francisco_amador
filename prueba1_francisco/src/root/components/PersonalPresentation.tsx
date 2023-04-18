@@ -10,7 +10,7 @@ function PersonalPresentation() {
       <div className='p-5' style={{flex: "1"}}>
         <div className="card-body">
           <h5 className="card-title">Francisco Amador</h5>
-          <p className="card-text">Estudiante de la Universidad Nacional </p>
+          <p className="card-text">Estudiante de la Universidad Nacional  </p>
           <p className="card-text">Estudiante de Ingenieria en Sistemas</p>
           <p className="card-text"> 23 años</p>
           <a href="https://www.linkedin.com/in/francisco-amador-968837270/" className="btn btn-primary">Go linkedin</a>

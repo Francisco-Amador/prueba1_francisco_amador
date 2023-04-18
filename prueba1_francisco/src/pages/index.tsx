@@ -7,6 +7,7 @@ import RepositoryList from '@/root/components/RepositoryList';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import PersonalPresentation from '@/root/components/PersonalPresentation';
 import Footer from '@/root/components/Footer';
+import CallOnAction from '@/root/components/CallOnAction';
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -38,11 +39,11 @@ export default function Home() {
   console.table(repositories)
   return (
     <main className="container-fluid  ">
-      <section id="header" className="row"> <Header/></section>
-      <section id="" className="row"><PersonalPresentation></PersonalPresentation></section>
-      <section id="" className="row"><RepositoryList RepositoriesItem={repositories}/>  </section>
-      <section id="" className="row"></section>
-      <section id="" className="row"><Footer/></section>
+      <section id="section1" className="row"> <Header/></section>
+      <section id="section2" className="row"><PersonalPresentation/></section>
+      <section id="section3" className="row"><RepositoryList RepositoriesItem={repositories}/>  </section>
+      <section id="section4" className="row"><CallOnAction/></section>
+      <section id="section5" className="row"><Footer/></section>
     </main>
   )
 }
