@@ -10,7 +10,7 @@ function Footer() {
             <h5 className="text-uppercase">Francisco Amador</h5>
 
             <p>
-                Esta pagína es un examen y forma parte de la evaluación del curso de programación 
+                Esta pagína es un examen y forma parte de la evaluación del curso de programación,  la página en la que estás puede ser una parte importante del proceso de evaluación de un curso de programación, que a su vez es una disciplina esencial en la actualidad.
             </p>
             </div>
 
