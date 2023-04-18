@@ -1,0 +1,5 @@
+[x] ●	Header con un menú y una imagen de su marca personal
+[] ●	Una sección de presentación personal y vínculo a su perfil de linked in
+[] ●	Una sección de proyectos realizados tipo carrusel
+[] ●	Una sección de Call to action para que los contraten
+[] ●	Un footer con contactos y/o redes sociales

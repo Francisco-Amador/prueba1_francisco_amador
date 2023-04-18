@@ -1,0 +1,10 @@
+.custom-carousel {
+    height: 500px;
+  }
+
+  .ajustImage {
+    width: "25%" ;
+    height :"40%";
+    display: "block";
+    margin: "auto";
+  }
